@@ -1,11 +1,10 @@
 #Colour
 # 벡스를 가지고 가장 쉽게 할수 있는것중에 하나는 어트리뷰트들을 기초로 지오메트리의 색상을 지정하는것이다. 밑에 있는것을 point wrangle text editor에서 시도해봐라, 
-타입핑을 끝낸후에 후디니가 코드를 실행하게 하기위해서 control-enter (or command enter on OSX)를 치세요.
+#타입핑을 끝낸후에 후디니가 코드를 실행하게 하기위해서 control-enter (or command enter on OSX)를 치세요.
 
 @Cd = @N;
 
-and
-
+# 그리고 
 @Cd = @P;
 
 Rotate/translate/scale via the transform sop, see values change.
